@@ -1,0 +1,120 @@
+<apex:page > 
+<html lang="en" style="font-size: 10.0pt;font face= Calibri">
+<body>
+<table border= "2" cellspacing= "0" cellpadding= "0px" width= "100%" id= "table1">
+    <tr>
+    <td align="center" height="50" width="100">
+        <b>CAMP 4 VINEYARD</b><br/>
+        <b>WEIGHMASTER CERTIFICATE</b>
+    </td>
+  </tr>
+</table>
+&nbsp;
+&nbsp;
+&nbsp;
+<table border= "0" align= "right" cellspacing= "0" cellpadding= "0px" id= "table2" >
+ <tr height="410%">
+    <tr ><td style="border: 1px solid black" align='right'>Certified Weighmaster#:</td></tr>
+    <tr><td style="border: 1px solid black" align='right'>Harvest Worksheet#:</td></tr>
+    <tr><td style="border: 1px solid black" align='right'>Date:</td></tr>
+    <p><span style="border: 1px solid black" ><b>&nbsp;Commodity:</b></span> Wine Grapes</p>
+ </tr>
+</table>
+ &nbsp;
+      <table border="2" cellspacing="0" cellpadding="1px" width="100%" id="table3" >
+    <tr>
+    <td height="50" width="100">
+        <p align="justify"><b>&nbsp;THIS IS TO CERTIFY</b> that the following described commodity was weighed,measured,or counted by a weighmaster,whose signature is on this certificate,who is a recognized authority of accuracy,as prescribed by Chapter 7(commencing with Section 12700) of Division 5 of the California Business and Professions Code,administered by the Division of Measurement Standards of the California Department of Food and Agriculture.</p>
+        </td>
+  </tr>
+</table>
+ &nbsp;
+<table border="2" cellspacing="0" cellpadding="0px" width="100%" height="60" id="table4">
+<tr>
+       <td width="50%">          
+           <u><b>Weighmaster:</b></u><br/>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COASTAL VINEYARD CARE ASSOCIATES<br/>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;224 East Highway 246 ste A<br/>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Buellton,CA 93427<br/>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santa Barbara County,California
+        </td>
+        <td width="50%">
+           <u><b>Weighing Location:</b></u><br/>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camp 4 Vineyard<br/>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4070 Baseline Road<br/>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santa Ynez,CA 93460<br/>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santa Barbara County,California
+        </td>
+</tr>    
+</table>
+ &nbsp;
+ <table border="2" cellspacing="0" cellpadding="0px" width="100%" height="60" id="table5">
+<tr>
+       <td width="50%">          
+           <u><b>Trucking information:</b></u><br/>
+                  <b><div style="text-align: center">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Company:<br/>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Truck License:<br/>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trailer License:<br/>
+                  Time of Departure:</div></b>
+        </td>
+        <td style="vertical-align:top" width="50%"><u><b>Buyer:</b></u><br/>
+                   <b><div style="text-align: center">
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name:<br/>
+                     FacilityName:<br/>
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address:</div></b>
+        </td>
+</tr>    
+</table>
+&nbsp;
+&nbsp;
+<table border="0" cellpadding="10px" width="100%" id="table6">
+ <tr>
+    <td bgcolor="#C0C0C0"></td>
+ </tr>
+</table>
+<table border= "0" align= "center" cellspacing= "0" cellpadding= "5px" width= "100%" id= "table7">
+ <tr>
+         <tr><td style="border: 2px solid black" width="11.1%"><b>Harvest<br/>Method</b></td>
+         <td style="border: 2px solid black;" width="11.1%"><b>Block</b></td>
+             <td style="border: 2px solid black" width="11.1%"><b>Variety</b></td>
+             <td style="border: 2px solid black" ><b>AVA</b></td>
+             <td style="border: 2px solid black" width="11.1%" align='right'><b>Gross Weight<br/>(lbs)</b></td>
+             <td style="border: 2px solid black" width="11.1%" align='right'><b>Number of <br/>Bins</b></td>
+             <td style="border: 2px solid black" width="11.1%" align='right'><b>Tare Weight<br/>(lbs)</b></td>
+             <td style="border: 2px solid black" width="11.1%" align='right'><b>Net Weight<br/>(lbs)</b></td>
+     </tr>
+      <tr>
+          <td style= "border: 1px solid black" width="11.1%">mnsdvfkjyodgslf,dbsfsdiylfsd,fjbhk</td>
+          <td style= "border: 1px solid black" width="11.1%"></td>
+          <td style= "border: 1px solid black" width="11.1%"></td>
+          <td style= "border: 1px solid black"></td>
+          <td style= "border: 1px solid black" width="11.1%"></td>
+          <td style= "border: 1px solid black" width="11.1%"></td>
+          <td style= "border: 1px solid black" width="11.1%"></td>
+          <td style= "border: 1px solid black" width="11.1%"></td>
+        </tr>    
+        <tr>
+         <td></td>
+         <td></td>
+         <td></td>
+            <td style="border: 2px solid black" align='right' ><b>Total Weights:</b></td>
+        </tr>
+       <tr>
+         <td></td>
+         <td></td>
+         <td></td>
+           <td style="border: 2px solid black" align='right'><b>Number of Bins:</b></td>
+        </tr> 
+ </tr>
+</table>
+&nbsp;
+<table border="0" cellspacing="0" cellpadding="0px" id="table8">
+<tr>
+    <td style="border:2px solid black;vertical-align:top" width="62%" height="90"><u><b>Common Tare Code or Desription:</b></u></td>
+         <td align="left"><b>&nbsp;&nbsp;Deputy Weighmaster Name:<hr color="black" size="1" width="-70%"/></b>
+             <b>&nbsp;&nbsp;Deputy Weighmaster Name:<hr color="black" size="1" width="50%"/></b></td>
+    </tr></table>
+</body>
+</html>
+</apex:page>
